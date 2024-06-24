@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+
+{% block title %}Predictive System{% endblock %}
+
+{% block content %}
+<h1>Predictive System</h1>
+<p>Welcome, {{ current_user.username }}! <a href="/logout">Logout</a></p>
+<form id="predictionForm" enctype="multipart/form-data" action="/predict" method="POST">
+    <div class="form-group">
+        <label for="file">Upload Excel File</label>
+        <input type="file" class="form-control-file" id="file" name="file" accept=".xlsx">
+    </div>
+    <button type="submit" class="btn btn-primary">Predict</button>
+</form>
+<br>
+<h3>Prediction Result:</h3>
+<div id="predictionResult"></div>
+<button id="downloadButton" class="btn btn-success" style="display: none;">Download Excel</button>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    $(document).ready(function(){
+        $('#predictionForm').on('submit', function(event){
+            event.preventDefault();
+
+            var formData = new FormData(this);
+
+            $.ajax({
+                url: '/predict',
+                method: 'POST',
+                data: formData,
+                processData: false,
+                contentType: false,
+                success: function(response){
+                    var resultDiv = $('#predictionResult');
+                    resultDiv.empty();
+                    if (response.length > 0) {
+                        var table = $('<table class="table table-bordered"></table>');
+                        var thead = $('<thead><tr><th>No</th><th>NISN</th><th>NAMA</th><th>Prediction</th></tr></thead>');
+                        var tbody = $('<tbody></tbody>');
+                        response.forEach(function(item, index){
+                            var row = $('<tr></tr>');
+                            row.append('<td>' + (index + 1) + '</td>');
+                            row.append('<td>' + item.NISN + '</td>');
+                            row.append('<td>' + item.NAMA + '</td>');
+                            row.append('<td>' + item.prediction + '</td>');
+                            tbody.append(row);
+                        });
+                        table.append(thead);
+                        table.append(tbody);
+                        resultDiv.append(table);
+                        $('#downloadButton').show();
+                    } else if (response.error) {
+                        resultDiv.text('Error: ' + response.error);
+                    } else {
+                        resultDiv.text('Unexpected error occurred');
+                    }
+                },
+                error: function(response){
+                    $('#predictionResult').text('Error making prediction');
+                }
+            });
+        });
+
+        $('#downloadButton').on('click', function() {
+            window.location.href = '/download';
+        });
+    });
+</script>
+{% endblock %}

@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+{% block title %}Prediction History{% endblock %}
+
+{% block content %}
+<h1>Prediction History</h1>
+
+<form method="GET" action="/history">
+    <div class="form-row">
+        <div class="form-group col-md-5">
+            <label for="start_date">Start Date</label>
+            <input type="date" class="form-control" id="start_date" name="start_date" value="{{ request.args.get('start_date', '') }}">
+        </div>
+        <div class="form-group col-md-5">
+            <label for="end_date">End Date</label>
+            <input type="date" class="form-control" id="end_date" name="end_date" value="{{ request.args.get('end_date', '') }}">
+        </div>
+        <div class="form-group col-md-2">
+            <label for="filter">&nbsp;</label>
+            <button type="submit" class="btn btn-primary btn-block">Filter</button>
+        </div>
+    </div>
+</form>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>No</th>
+            <th>NISN</th>
+            <th>Nama</th>
+            <th>SIKAP</th>
+            <th>Peng</th>
+            <th>Ket</th>
+            <th>PTS</th>
+            <th>PAS</th>
+            <th>Prediction</th>
+            <th>Prediction Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for prediction in predictions %}
+        <tr>
+            <td>{{ loop.index }}</td>
+            <td>{{ prediction[0] }}</td>
+            <td>{{ prediction[1] }}</td>
+            <td>{{ prediction[2] }}</td>
+            <td>{{ prediction[3] }}</td>
+            <td>{{ prediction[4] }}</td>
+            <td>{{ prediction[5] }}</td>
+            <td>{{ prediction[6] }}</td>
+            <td>{{ prediction[7] }}</td>
+            <td>{{ prediction[8] }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+<a href="/" class="btn btn-primary">Back to Home</a>
+{% endblock %}

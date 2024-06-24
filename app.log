@@ -1,0 +1,1853 @@
+2024-06-22 20:37:32,076 INFO:127.0.0.1 - - [22/Jun/2024 20:37:32] "GET / HTTP/1.1" 200 -
+2024-06-22 20:37:36,612 INFO:Received prediction request
+2024-06-22 20:37:36,614 INFO:Saving uploaded file to uploads\Data_test_web2.xlsx
+2024-06-22 20:37:36,632 INFO:File read successfully with 5 rows
+2024-06-22 20:37:36,641 INFO:Prediction completed successfully
+2024-06-22 20:37:36,642 INFO:Prediction successful
+2024-06-22 20:37:36,642 INFO:127.0.0.1 - - [22/Jun/2024 20:37:36] "POST /predict HTTP/1.1" 200 -
+2024-06-22 20:37:54,436 INFO:Received prediction request
+2024-06-22 20:37:54,438 INFO:Saving uploaded file to uploads\Data_FINAL_test_web.xlsx
+2024-06-22 20:37:54,568 INFO:File read successfully with 968 rows
+2024-06-22 20:37:54,575 INFO:Prediction completed successfully
+2024-06-22 20:37:54,579 INFO:Prediction successful
+2024-06-22 20:37:54,586 INFO:127.0.0.1 - - [22/Jun/2024 20:37:54] "POST /predict HTTP/1.1" 200 -
+2024-06-22 20:40:24,955 INFO:Model loaded successfully
+2024-06-22 20:40:24,956 INFO:Dummy columns loaded successfully
+2024-06-22 20:40:24,988 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-22 20:40:24,988 INFO:[33mPress CTRL+C to quit[0m
+2024-06-22 20:40:24,990 INFO: * Restarting with stat
+2024-06-22 20:40:27,189 INFO:Model loaded successfully
+2024-06-22 20:40:27,190 INFO:Dummy columns loaded successfully
+2024-06-22 20:40:27,201 WARNING: * Debugger is active!
+2024-06-22 20:40:27,216 INFO: * Debugger PIN: 164-277-994
+2024-06-22 20:40:27,830 INFO:127.0.0.1 - - [22/Jun/2024 20:40:27] "GET / HTTP/1.1" 200 -
+2024-06-22 20:40:32,987 INFO:Received prediction request
+2024-06-22 20:40:32,989 INFO:Saving uploaded file to uploads\Data_FINAL_test_web.xlsx
+2024-06-22 20:40:33,454 INFO:File read successfully with 968 rows
+2024-06-22 20:40:33,462 INFO:Prediction completed successfully
+2024-06-22 20:40:33,467 INFO:Prediction successful
+2024-06-22 20:40:33,474 INFO:127.0.0.1 - - [22/Jun/2024 20:40:33] "POST /predict HTTP/1.1" 200 -
+2024-06-22 20:41:04,842 INFO:127.0.0.1 - - [22/Jun/2024 20:41:04] "GET / HTTP/1.1" 200 -
+2024-06-22 20:41:10,676 INFO:Received prediction request
+2024-06-22 20:41:10,677 INFO:Saving uploaded file to uploads\Data_FINAL_test_web.xlsx
+2024-06-22 20:41:10,842 INFO:File read successfully with 968 rows
+2024-06-22 20:41:10,851 INFO:Prediction completed successfully
+2024-06-22 20:41:10,854 INFO:Prediction successful
+2024-06-22 20:41:10,862 INFO:127.0.0.1 - - [22/Jun/2024 20:41:10] "POST /predict HTTP/1.1" 200 -
+2024-06-22 20:44:07,907 INFO:Model loaded successfully
+2024-06-22 20:44:07,908 INFO:Dummy columns loaded successfully
+2024-06-22 20:44:07,934 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-22 20:44:07,934 INFO:[33mPress CTRL+C to quit[0m
+2024-06-22 20:44:07,936 INFO: * Restarting with stat
+2024-06-22 20:44:10,050 INFO:Model loaded successfully
+2024-06-22 20:44:10,050 INFO:Dummy columns loaded successfully
+2024-06-22 20:44:10,062 WARNING: * Debugger is active!
+2024-06-22 20:44:10,077 INFO: * Debugger PIN: 164-277-994
+2024-06-22 20:44:11,555 INFO:127.0.0.1 - - [22/Jun/2024 20:44:11] "GET / HTTP/1.1" 200 -
+2024-06-22 20:44:16,168 INFO:Received prediction request
+2024-06-22 20:44:16,169 INFO:Saving uploaded file to uploads\Data_FINAL_test_web.xlsx
+2024-06-22 20:44:16,630 INFO:File read successfully with 968 rows
+2024-06-22 20:44:16,639 INFO:Prediction completed successfully
+2024-06-22 20:44:16,644 INFO:Prediction successful
+2024-06-22 20:44:16,651 INFO:127.0.0.1 - - [22/Jun/2024 20:44:16] "POST /predict HTTP/1.1" 200 -
+2024-06-22 20:46:49,355 INFO:Received prediction request
+2024-06-22 20:46:49,356 INFO:Saving uploaded file to uploads\Data_test_web2.xlsx
+2024-06-22 20:46:49,378 INFO:File read successfully with 5 rows
+2024-06-22 20:46:49,387 INFO:Prediction completed successfully
+2024-06-22 20:46:49,388 INFO:Prediction successful
+2024-06-22 20:46:49,388 INFO:127.0.0.1 - - [22/Jun/2024 20:46:49] "POST /predict HTTP/1.1" 200 -
+2024-06-22 20:47:28,584 INFO:Received prediction request
+2024-06-22 20:47:28,585 INFO:Saving uploaded file to uploads\Data_FINAL_test_web.xlsx
+2024-06-22 20:47:28,751 INFO:File read successfully with 968 rows
+2024-06-22 20:47:28,759 INFO:Prediction completed successfully
+2024-06-22 20:47:28,763 INFO:Prediction successful
+2024-06-22 20:47:28,770 INFO:127.0.0.1 - - [22/Jun/2024 20:47:28] "POST /predict HTTP/1.1" 200 -
+2024-06-22 20:55:30,015 INFO:127.0.0.1 - - [22/Jun/2024 20:55:30] "GET / HTTP/1.1" 200 -
+2024-06-22 20:55:33,870 INFO:Received prediction request
+2024-06-22 20:55:33,872 INFO:Saving uploaded file to uploads\Data_FINAL_test_web2.xlsx
+2024-06-22 20:55:33,901 INFO:File read successfully with 99 rows
+2024-06-22 20:55:33,910 INFO:Prediction completed successfully
+2024-06-22 20:55:33,912 INFO:Prediction successful
+2024-06-22 20:55:33,913 INFO:127.0.0.1 - - [22/Jun/2024 20:55:33] "POST /predict HTTP/1.1" 200 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:00:12] "GET / HTTP/1.1" 200 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:00:16] "POST /predict HTTP/1.1" 200 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:04:28] "GET / HTTP/1.1" 200 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:04:32] "POST /predict HTTP/1.1" 200 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:10:16] "GET / HTTP/1.1" 200 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:10:27] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:10:33] "[35m[1mGET /download?filename= HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:10:33] "GET /download?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:10:33] "GET /download?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:10:33] "GET /download?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:10:33] "[36mGET /download?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:10:52] "GET / HTTP/1.1" 200 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:13:28] "GET / HTTP/1.1" 200 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:13:33] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:13:57] "[35m[1mGET /download?filename=Agus HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:13:57] "[36mGET /download?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:13:57] "[36mGET /download?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:13:57] "[36mGET /download?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:15:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:15:43] "GET / HTTP/1.1" 200 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:15:46] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:15:49] "[35m[1mGET /download HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:15:49] "[36mGET /download?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:15:49] "[36mGET /download?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:15:49] "[36mGET /download?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:18:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:18:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:18:22] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:18:26] "[35m[1mGET /download HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:18:26] "GET /download?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:18:26] "GET /download?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:18:26] "GET /download?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:18:26] "[36mGET /download?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:22:43] "GET / HTTP/1.1" 200 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:22:47] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:22:51] "[35m[1mGET /download HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:22:51] "[36mGET /download?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:22:51] "[36mGET /download?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:22:52] "[36mGET /download?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:24:03] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:24:07] "[35m[1mGET /download HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:24:07] "[36mGET /download?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:24:07] "[36mGET /download?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:24:08] "[36mGET /download?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:25:46] "GET / HTTP/1.1" 200 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:25:51] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:25:55] "[35m[1mGET /download HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:25:55] "[36mGET /download?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:25:55] "[36mGET /download?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:25:55] "[36mGET /download?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:26:37] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:26:39] "[35m[1mGET /download HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:26:39] "[36mGET /download?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:26:39] "[36mGET /download?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:26:39] "[36mGET /download?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:28:56] "GET / HTTP/1.1" 200 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:29:04] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jun/2024 21:29:06] "GET /download HTTP/1.1" 200 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:12:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:12:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:12:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:12:37] "GET / HTTP/1.1" 200 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:16:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:16:56] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:16:56] "GET /login?next=/logout HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:17:03] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:17:12] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:17:12] "GET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:17:12] "GET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:17:13] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:17:13] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:19:33] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:19:37] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:19:37] "[36mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:19:38] "[36mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:19:38] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:19:38] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:22:45] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:22:52] "[32mPOST /register HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:22:52] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:23:12] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:23:19] "[32mPOST /register HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:23:19] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:23:28] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:23:28] "GET / HTTP/1.1" 200 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:23:46] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:36:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:36:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:44:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:44:49] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:44:50] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:44:52] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:45:05] "[33mGET /index.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:45:10] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:45:10] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:45:17] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:45:17] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:45:25] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:45:25] "GET / HTTP/1.1" 200 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [23/Jun/2024 12:45:34] "POST /predict HTTP/1.1" 200 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:07:03] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:07:03] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:07:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:07:15] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:07:15] "GET / HTTP/1.1" 200 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:07:23] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:09:04] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:09:04] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\templates_backup\\app_backup.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:12:41] "GET /register HTTP/1.1" 200 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:17:32] "GET /static/login.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:17:33] "GET /static/login.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:17:33] "GET /static/css/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:17:33] "GET /static/js/scripts.js HTTP/1.1" 200 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:26:16] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:26:16] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:26:16] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:26:16] "[33mGET /js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:26:59] "GET /register HTTP/1.1" 200 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:28:07] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:28:07] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:30:32] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:30:32] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:30:32] "[33mGET /js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:30:38] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:30:38] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:30:38] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:30:38] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:30:38] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:31:48] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:31:48] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:31:48] "[33mGET /js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:31:51] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:31:51] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:31:51] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:31:51] "[33mGET /js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:31:57] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:31:57] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:31:57] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:31:57] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:33:04] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:33:09] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:33:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:35:28] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:35:28] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:35:28] "[33mGET /js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:35:35] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:35:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:35:40] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:35:40] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:35:40] "[33mGET /js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:36:49] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:36:49] "[33mGET /template/css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:36:50] "[33mGET /template/js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:43:20] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:43:20] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:43:21] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:43:21] "[33mGET /template/js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:43:25] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:43:25] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:43:25] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:43:25] "[33mGET /template/js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:43:25] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:43:27] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:43:28] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:43:28] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:43:28] "[33mGET /template/js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:44:06] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:44:06] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:44:07] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 17:44:07] "[33mGET /template/js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:00:03] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:00:03] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:00:04] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:00:04] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:00:04] "[33mGET /template/js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:00:12] "GET /static/login.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:00:12] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:00:12] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:01:24] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:01:24] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:01:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:01:24] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:01:24] "[33mGET /template/js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:02:59] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:02:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:02:59] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:03:02] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:03:03] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:03:03] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:03:03] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:06:40] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:06:40] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:06:40] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:09:51] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:09:51] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:09:52] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:19] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:19] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:20] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:26] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:26] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:26] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:33] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:33] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:34] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:37] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:37] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:37] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:37] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:44] "[33mGET /index.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:51] "[33mGET /index.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:55] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:55] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:10:56] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:11:04] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:11:04] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:11:05] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:11:05] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:12:42] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:12:42] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:12:43] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:12:43] "[33mGET /js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:12:43] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:13:40] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:13:40] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:13:40] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:13:40] "[33mGET /js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:13:40] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:14:27] "[36mGET /static/login.html HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:14:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:14:28] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:15:00] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:15:01] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:15:01] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:15:01] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:15:53] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:15:53] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:15:53] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:15:53] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:16:08] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:16:08] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:16:08] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:16:08] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:16:13] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:16:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:16:13] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:16:13] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:17:41] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:17:41] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:17:41] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:17:41] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:17:46] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:17:46] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:17:46] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:17:46] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:18:12] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:18:12] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:18:12] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:18:12] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:19:00] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:19:00] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:19:00] "[33mGET /css/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:19:00] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:19:22] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:19:22] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:19:22] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:21:50] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:21:50] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:21:50] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:21:59] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:21:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:21:59] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:22:07] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:22:07] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:22:07] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:26:29] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:26:29] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:26:29] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:26:53] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:26:54] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:26:54] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:27:22] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:27:22] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:27:22] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:30:51] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:30:51] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:30:51] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:31:10] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:31:10] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:31:10] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:31:35] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:31:35] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:31:35] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:32:23] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:32:23] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:32:24] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:32:50] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:32:50] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:32:51] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:33:29] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:33:29] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:33:29] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:33:39] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:33:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:33:39] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:33:52] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:33:52] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:33:52] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:34:03] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:34:03] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:34:03] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:34:57] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:34:57] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:34:58] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:35:01] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:35:01] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:35:01] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:35:08] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:35:08] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:35:08] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:35:10] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:35:10] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:35:11] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:35:34] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:35:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:35:34] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:04] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:04] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:05] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:25] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:25] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:25] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:33] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:33] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:34] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:39] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:39] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:42] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:43] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:43] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:57] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:57] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:36:57] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:37:11] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:37:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:37:11] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:37:12] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:37:54] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:37:54] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:37:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:37:55] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:38:02] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:38:03] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:38:03] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:40:14] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:40:14] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:40:14] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:40:36] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:40:36] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:40:37] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:41:33] "GET /static/login.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:41:41] "GET /static/register.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:41:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:41:41] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:48:22] "GET /static/register.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:48:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:48:22] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:48:41] "GET /static/register.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:48:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:48:41] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:49:48] "[36mGET /static/register.html HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:49:48] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:49:48] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:49:49] "[36mGET /static/login.html HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:01] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:01] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:02] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:02] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:09] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:09] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:09] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:14] "[33mGET /l HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:17] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:17] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:18] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:18] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:54] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:55] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:58] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:58] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:50:59] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:57:52] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:57:52] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:57:52] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:58:52] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:58:52] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:58:52] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:58:59] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:58:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 18:58:59] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:04:25] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:04:26] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:04:26] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:04:27] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:04:28] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:04:28] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:05:53] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:05:54] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:05:54] "[33mGET /js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:05:54] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:05:59] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:05:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:05:59] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:02] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:02] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:02] "[33mGET /js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:02] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:05] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:05] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:05] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:07] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:07] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:07] "[33mGET /js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:07] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:14] "[32mPOST /register HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:14] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:14] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:14] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:24] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:24] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:30] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:30] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:30] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:06:30] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:34:46] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:34:46] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:34:46] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:34:59] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:34:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:34:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:34:59] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:35:03] "GET /history HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:35:04] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:35:04] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+ERROR:app:Error processing file: 'peng'
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:35:12] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:35:56] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:35:56] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:35:56] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:35:57] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:36:03] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:36:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:36:03] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:36:03] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:36:09] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:36:15] "GET /history HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:36:15] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:36:15] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:39:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:39:38] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:39:38] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:39:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:39:39] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:39:45] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:39:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:39:45] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:39:45] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:39:50] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:44:28] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:44:28] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:44:28] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:44:28] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:44:34] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:44:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:44:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:44:34] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:44:39] "POST /predict HTTP/1.1" 200 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:44:58] "POST /predict HTTP/1.1" 200 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:22] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:22] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:23] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:24] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:24] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:30] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:30] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:30] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:35] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:46] "[35m[1mGET /download HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:46] "GET /download?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:46] "GET /download?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:46] "GET /download?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:53] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:54] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:54] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:46:54] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:47:54] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:47:54] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:47:55] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:47:59] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:47:59] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:47:59] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:47:59] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:48:00] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:48:23] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:48:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:48:23] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:48:23] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:48:27] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:52:35] "GET /download HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:56:43] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:56:50] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:56:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:56:50] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:56:51] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 19:56:55] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:00:19] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:00:19] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:00:19] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:00:19] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:00:25] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:00:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:00:26] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:00:26] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:00:31] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:03:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:03:14] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:03:14] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:03:18] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:06:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:06:48] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:06:49] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:06:50] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:06:50] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:06:50] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:06:50] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:06:56] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:06:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:06:56] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:06:56] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:07:02] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:07:10] "[35m[1mGET /download HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:07:10] "[36mGET /download?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:07:10] "[36mGET /download?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:07:10] "[36mGET /download?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:07:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:07:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:07:35] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:07:35] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:07:42] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:07:45] "[35m[1mGET /download HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:07:45] "[36mGET /download?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:07:45] "[36mGET /download?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:07:46] "[36mGET /download?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:09:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:09:40] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:09:40] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:09:47] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:09:50] "[35m[1mGET /download HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:09:50] "[36mGET /download?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:09:50] "[36mGET /download?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:09:51] "[36mGET /download?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:00] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:01] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:02] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:02] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:02] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:02] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:08] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:09] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:09] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:13] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:16] "[35m[1mGET /download HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:17] "[36mGET /download?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:17] "[36mGET /download?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:12:17] "[36mGET /download?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:13:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:13:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:13:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:13:56] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:13:58] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:13:58] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:13:58] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:13:58] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:14:03] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:14:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:14:03] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:14:03] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:14:09] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:14:12] "GET /download HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:14:55] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:14:55] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:14:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:14:55] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:19:28] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:19:28] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:19:29] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:19:33] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:19:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:19:33] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:19:34] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:19:34] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:19:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:20:58] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:20:59] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:20:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:20:59] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:21:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:21:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:21:06] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:21:06] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:21:12] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:21:25] "GET /download HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:23:21] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:23:22] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:23:22] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:23:22] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:23:30] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:23:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:23:30] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:23:30] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:23:48] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:23:51] "GET /download HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:27:09] "[31m[1mGET /download HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:27:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:27:13] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:27:13] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:27:14] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:27:14] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:27:21] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:27:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:27:21] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:27:21] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:27:27] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:27:30] "GET /download HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:33:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:33:19] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:33:20] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:33:21] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:33:21] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:33:21] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:33:21] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:33:26] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:33:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:33:27] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:33:27] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP Peng Ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:33:33] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:33:36] "GET /download HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\templates_backup\\app_backup.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:57:24] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:57:24] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:57:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 20:57:24] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:03:36] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:03:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:03:36] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:03:36] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP peng ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:03:41] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:03:44] "GET /download HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:05:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:05:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:06:00] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:06:01] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:06:01] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:06:01] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:06:01] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:06:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:06:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:06:06] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:06:06] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP peng ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:06:11] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:07:34] "GET /download HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:12:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:12:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:12:38] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP peng ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Inserting row: {'NISN': 10009, 'NAMA': 'Agung Duwi Setiawan', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10010, 'NAMA': 'Ahmad Brilliant Fauzy', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10011, 'NAMA': 'ALEA ATHA NUGRAHA', 'SIKAP': 'B', 'peng': 'B', 'ket': 'B', 'PTS': 'B', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10012, 'NAMA': 'AVELINE FLORENTHE CARISSIMA', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10013, 'NAMA': 'BALLIYU AJI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10014, 'NAMA': 'CANDRA GEWA SAPUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10015, 'NAMA': 'DHESTA DWI NOVITA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10016, 'NAMA': 'DHINAR SEKAR AYU RAHMADANI', 'SIKAP': 'A', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10017, 'NAMA': 'DICKY FAJAR MAULANA', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10018, 'NAMA': 'DINI RAMADANTI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10019, 'NAMA': 'DYAH ASRI NGAYOMI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10020, 'NAMA': 'FAIZA SALSABILLA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10021, 'NAMA': 'GAVRILA AGATHA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10022, 'NAMA': 'GERRY DIAN ADENATA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10023, 'NAMA': 'MOH SHIHA AL QARAFI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10024, 'NAMA': 'Mohammad Rosid Abdul Aziz', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10025, 'NAMA': 'MUHAMMAD ARSYA HADI SAPUTRA', 'SIKAP': 'C', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10026, 'NAMA': 'MUHAMMAD FACHRU RIZA', 'SIKAP': 'C', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10027, 'NAMA': 'MUHAMMAD TRIADI NUGROHO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10028, 'NAMA': 'NABILA FEBRIYANTI TAZKIYYA', 'SIKAP': 'A', 'peng': 'B', 'ket': 'B', 'PTS': 'B', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10029, 'NAMA': 'Nabila Pidia Meildasari', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10030, 'NAMA': 'NUR AZIZ IQBALUDIIN', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10031, 'NAMA': 'PASHA PURI OCTAVIANI', 'SIKAP': 'A', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10032, 'NAMA': 'RAHMA ZETY KURNIASIH', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10033, 'NAMA': 'RENDY ARIBRIANTO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10034, 'NAMA': 'RISA RESTIANA FEBRIANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10035, 'NAMA': 'RIZQYA NOVELY AULYA HERMAN', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'B', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10036, 'NAMA': "Soraya Ni'matur Rohmah", 'SIKAP': 'B', 'peng': 'A', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10037, 'NAMA': 'WULAN SUCI RAHMADHANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10038, 'NAMA': 'YONA AMELIA PUTRI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10039, 'NAMA': 'Zuraida Fatma Nurazizah', 'SIKAP': 'A', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10040, 'NAMA': 'AGUNG RUSDI HARYA PUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10041, 'NAMA': 'Ahmad Reza Saputra', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10042, 'NAMA': 'ANGGUN FIQTROH RAHMADINA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10043, 'NAMA': 'Aninda Hera Ukiyesa', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10044, 'NAMA': 'Arezhyca Rizky Anggraini', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10045, 'NAMA': 'AYU DWI NINGTYAS', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10046, 'NAMA': 'BIMA ARIEL PRASTIYO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10047, 'NAMA': 'CHEYSA AVRIL', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10048, 'NAMA': 'DAVIS MIRZA FANANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10049, 'NAMA': 'Diandra Egista Putra Agil', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10050, 'NAMA': 'ESTY DESYANESTI NURAINI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10051, 'NAMA': 'Fadya Elok Prameswari', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10052, 'NAMA': 'Fanyca Ilma Feby Setya Ayuni', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10053, 'NAMA': 'FARIS SOFYAN SYAHPUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10054, 'NAMA': 'FEBBIO HANIF TAUFIQURROHMAN', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10055, 'NAMA': 'GITA MAYA WAHYU PUSPITA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10056, 'NAMA': 'MARENDRA TIO WICAKSONO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10057, 'NAMA': 'Meylisa Dwi Puspitasari', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10058, 'NAMA': 'MOH. PUTRA FALLA YANUARSYAH', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10059, 'NAMA': 'Muchamad Eko Bayu Prastiyo', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10060, 'NAMA': 'Muhamad Putra Pratama', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10062, 'NAMA': "NI'MATUNNIHA ROBBANIYAH", 'SIKAP': 'B', 'peng': 'B', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10061, 'NAMA': 'Nigita Mila Agustin', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10063, 'NAMA': 'NINDI AMILIA SAPUTRI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10064, 'NAMA': 'NOVILIA DWI ARTANTI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10065, 'NAMA': 'OKY RAMADHAN ANUGRAH PERMANA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10066, 'NAMA': 'PAUL FAUZI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10067, 'NAMA': 'PEVI NOVITASARI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10068, 'NAMA': 'Rino Pramuditya', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10069, 'NAMA': 'SELA MEICHA BELLA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10070, 'NAMA': 'Tatra Tri Wahyudi', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10071, 'NAMA': "You Fan' S", 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10072, 'NAMA': 'Afdy Carnaen Affandy', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10073, 'NAMA': 'AHMAD FAUZI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10074, 'NAMA': 'ALFIN KURNIA ADINTA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10075, 'NAMA': 'AVIVAH ANGGUN SUKMA ARUM MAIYA VRIYANTI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10076, 'NAMA': 'Dela Puspita', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10077, 'NAMA': 'DEVI DIA PERMATASARI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10078, 'NAMA': 'DHAFA AKBAR ANUGRAH PRADANA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10079, 'NAMA': 'ELSYA DWI ARDIANA PUTRI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10080, 'NAMA': 'Erine Wiritamaya ', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10081, 'NAMA': 'FADHIELA NUR ROHMAH', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10082, 'NAMA': 'Farisqi Putra Pratama', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10083, 'NAMA': 'FAROLD MISCHARIAN TAMEKA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10084, 'NAMA': 'LATIFA INDAH PERTIWI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10085, 'NAMA': 'Mahika Fadli Dwinanda', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10086, 'NAMA': 'MAULIA DIVA ANASTASYA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10087, 'NAMA': 'MEYTA DWI LESTARI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10088, 'NAMA': 'MOCHAMAT REZA ZAINUL WAFA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10089, 'NAMA': 'Mohamad Diky Surya Saputra', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10090, 'NAMA': 'NAILA ZHAFIRA RAHMADINA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10091, 'NAMA': 'Nizar Aditya Refandy', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10092, 'NAMA': 'OSHARILLA WILANA PUTRI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10093, 'NAMA': 'PANJI EKA SAPUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10094, 'NAMA': 'REGGYTA MAHARANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10095, 'NAMA': 'REIHAN PUTRA PRATAMA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10096, 'NAMA': 'REZA RAMADANI PUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10097, 'NAMA': 'Rizky Abdhel Rochman', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10098, 'NAMA': 'Salsabella Ramadhany', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10099, 'NAMA': 'Varel Malin Setiawan', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10100, 'NAMA': 'Yeyen Nurmega Gadis Sonia', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10101, 'NAMA': 'Yurike Ester Zecilia', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10102, 'NAMA': 'Zahra Sahira Shofa Mustafa', 'SIKAP': 'A', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10103, 'NAMA': 'ZIDAN ILHAM BINTANG', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10104, 'NAMA': 'ADRI LAKSONO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10105, 'NAMA': "ALISYA NURLAILI CHOIROTUN NISA'", 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10106, 'NAMA': 'ALVIA NOVITASARI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10107, 'NAMA': 'AMELIA DESI PRATIWI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:12:42] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:17:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:17:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:17:38] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP peng ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Inserting row: {'NISN': 10009, 'NAMA': 'Agung Duwi Setiawan', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10010, 'NAMA': 'Ahmad Brilliant Fauzy', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10011, 'NAMA': 'ALEA ATHA NUGRAHA', 'SIKAP': 'B', 'peng': 'B', 'ket': 'B', 'PTS': 'B', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10012, 'NAMA': 'AVELINE FLORENTHE CARISSIMA', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10013, 'NAMA': 'BALLIYU AJI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10014, 'NAMA': 'CANDRA GEWA SAPUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10015, 'NAMA': 'DHESTA DWI NOVITA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10016, 'NAMA': 'DHINAR SEKAR AYU RAHMADANI', 'SIKAP': 'A', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10017, 'NAMA': 'DICKY FAJAR MAULANA', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10018, 'NAMA': 'DINI RAMADANTI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10019, 'NAMA': 'DYAH ASRI NGAYOMI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10020, 'NAMA': 'FAIZA SALSABILLA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10021, 'NAMA': 'GAVRILA AGATHA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10022, 'NAMA': 'GERRY DIAN ADENATA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10023, 'NAMA': 'MOH SHIHA AL QARAFI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10024, 'NAMA': 'Mohammad Rosid Abdul Aziz', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10025, 'NAMA': 'MUHAMMAD ARSYA HADI SAPUTRA', 'SIKAP': 'C', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10026, 'NAMA': 'MUHAMMAD FACHRU RIZA', 'SIKAP': 'C', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10027, 'NAMA': 'MUHAMMAD TRIADI NUGROHO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10028, 'NAMA': 'NABILA FEBRIYANTI TAZKIYYA', 'SIKAP': 'A', 'peng': 'B', 'ket': 'B', 'PTS': 'B', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10029, 'NAMA': 'Nabila Pidia Meildasari', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10030, 'NAMA': 'NUR AZIZ IQBALUDIIN', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10031, 'NAMA': 'PASHA PURI OCTAVIANI', 'SIKAP': 'A', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10032, 'NAMA': 'RAHMA ZETY KURNIASIH', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10033, 'NAMA': 'RENDY ARIBRIANTO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10034, 'NAMA': 'RISA RESTIANA FEBRIANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10035, 'NAMA': 'RIZQYA NOVELY AULYA HERMAN', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'B', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10036, 'NAMA': "Soraya Ni'matur Rohmah", 'SIKAP': 'B', 'peng': 'A', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10037, 'NAMA': 'WULAN SUCI RAHMADHANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10038, 'NAMA': 'YONA AMELIA PUTRI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10039, 'NAMA': 'Zuraida Fatma Nurazizah', 'SIKAP': 'A', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10040, 'NAMA': 'AGUNG RUSDI HARYA PUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10041, 'NAMA': 'Ahmad Reza Saputra', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10042, 'NAMA': 'ANGGUN FIQTROH RAHMADINA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10043, 'NAMA': 'Aninda Hera Ukiyesa', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10044, 'NAMA': 'Arezhyca Rizky Anggraini', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10045, 'NAMA': 'AYU DWI NINGTYAS', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10046, 'NAMA': 'BIMA ARIEL PRASTIYO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10047, 'NAMA': 'CHEYSA AVRIL', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10048, 'NAMA': 'DAVIS MIRZA FANANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10049, 'NAMA': 'Diandra Egista Putra Agil', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10050, 'NAMA': 'ESTY DESYANESTI NURAINI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10051, 'NAMA': 'Fadya Elok Prameswari', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10052, 'NAMA': 'Fanyca Ilma Feby Setya Ayuni', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10053, 'NAMA': 'FARIS SOFYAN SYAHPUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10054, 'NAMA': 'FEBBIO HANIF TAUFIQURROHMAN', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10055, 'NAMA': 'GITA MAYA WAHYU PUSPITA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10056, 'NAMA': 'MARENDRA TIO WICAKSONO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10057, 'NAMA': 'Meylisa Dwi Puspitasari', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10058, 'NAMA': 'MOH. PUTRA FALLA YANUARSYAH', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10059, 'NAMA': 'Muchamad Eko Bayu Prastiyo', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10060, 'NAMA': 'Muhamad Putra Pratama', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10062, 'NAMA': "NI'MATUNNIHA ROBBANIYAH", 'SIKAP': 'B', 'peng': 'B', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10061, 'NAMA': 'Nigita Mila Agustin', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10063, 'NAMA': 'NINDI AMILIA SAPUTRI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10064, 'NAMA': 'NOVILIA DWI ARTANTI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10065, 'NAMA': 'OKY RAMADHAN ANUGRAH PERMANA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10066, 'NAMA': 'PAUL FAUZI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10067, 'NAMA': 'PEVI NOVITASARI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10068, 'NAMA': 'Rino Pramuditya', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10069, 'NAMA': 'SELA MEICHA BELLA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10070, 'NAMA': 'Tatra Tri Wahyudi', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10071, 'NAMA': "You Fan' S", 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10072, 'NAMA': 'Afdy Carnaen Affandy', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10073, 'NAMA': 'AHMAD FAUZI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10074, 'NAMA': 'ALFIN KURNIA ADINTA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10075, 'NAMA': 'AVIVAH ANGGUN SUKMA ARUM MAIYA VRIYANTI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10076, 'NAMA': 'Dela Puspita', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10077, 'NAMA': 'DEVI DIA PERMATASARI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10078, 'NAMA': 'DHAFA AKBAR ANUGRAH PRADANA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10079, 'NAMA': 'ELSYA DWI ARDIANA PUTRI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10080, 'NAMA': 'Erine Wiritamaya ', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10081, 'NAMA': 'FADHIELA NUR ROHMAH', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10082, 'NAMA': 'Farisqi Putra Pratama', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10083, 'NAMA': 'FAROLD MISCHARIAN TAMEKA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10084, 'NAMA': 'LATIFA INDAH PERTIWI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10085, 'NAMA': 'Mahika Fadli Dwinanda', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10086, 'NAMA': 'MAULIA DIVA ANASTASYA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10087, 'NAMA': 'MEYTA DWI LESTARI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10088, 'NAMA': 'MOCHAMAT REZA ZAINUL WAFA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10089, 'NAMA': 'Mohamad Diky Surya Saputra', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10090, 'NAMA': 'NAILA ZHAFIRA RAHMADINA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10091, 'NAMA': 'Nizar Aditya Refandy', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10092, 'NAMA': 'OSHARILLA WILANA PUTRI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10093, 'NAMA': 'PANJI EKA SAPUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10094, 'NAMA': 'REGGYTA MAHARANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10095, 'NAMA': 'REIHAN PUTRA PRATAMA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10096, 'NAMA': 'REZA RAMADANI PUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10097, 'NAMA': 'Rizky Abdhel Rochman', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10098, 'NAMA': 'Salsabella Ramadhany', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10099, 'NAMA': 'Varel Malin Setiawan', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10100, 'NAMA': 'Yeyen Nurmega Gadis Sonia', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10101, 'NAMA': 'Yurike Ester Zecilia', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10102, 'NAMA': 'Zahra Sahira Shofa Mustafa', 'SIKAP': 'A', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10103, 'NAMA': 'ZIDAN ILHAM BINTANG', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10104, 'NAMA': 'ADRI LAKSONO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10105, 'NAMA': "ALISYA NURLAILI CHOIROTUN NISA'", 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10106, 'NAMA': 'ALVIA NOVITASARI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10107, 'NAMA': 'AMELIA DESI PRATIWI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:17:43] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:22:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:22:58] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:22:58] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP peng ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Inserting row: {'NISN': 10009, 'NAMA': 'Agung Duwi Setiawan', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10010, 'NAMA': 'Ahmad Brilliant Fauzy', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10011, 'NAMA': 'ALEA ATHA NUGRAHA', 'SIKAP': 'B', 'peng': 'B', 'ket': 'B', 'PTS': 'B', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10012, 'NAMA': 'AVELINE FLORENTHE CARISSIMA', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10013, 'NAMA': 'BALLIYU AJI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10014, 'NAMA': 'CANDRA GEWA SAPUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10015, 'NAMA': 'DHESTA DWI NOVITA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10016, 'NAMA': 'DHINAR SEKAR AYU RAHMADANI', 'SIKAP': 'A', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10017, 'NAMA': 'DICKY FAJAR MAULANA', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10018, 'NAMA': 'DINI RAMADANTI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10019, 'NAMA': 'DYAH ASRI NGAYOMI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10020, 'NAMA': 'FAIZA SALSABILLA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10021, 'NAMA': 'GAVRILA AGATHA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10022, 'NAMA': 'GERRY DIAN ADENATA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10023, 'NAMA': 'MOH SHIHA AL QARAFI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10024, 'NAMA': 'Mohammad Rosid Abdul Aziz', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10025, 'NAMA': 'MUHAMMAD ARSYA HADI SAPUTRA', 'SIKAP': 'C', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10026, 'NAMA': 'MUHAMMAD FACHRU RIZA', 'SIKAP': 'C', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10027, 'NAMA': 'MUHAMMAD TRIADI NUGROHO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10028, 'NAMA': 'NABILA FEBRIYANTI TAZKIYYA', 'SIKAP': 'A', 'peng': 'B', 'ket': 'B', 'PTS': 'B', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10029, 'NAMA': 'Nabila Pidia Meildasari', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10030, 'NAMA': 'NUR AZIZ IQBALUDIIN', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10031, 'NAMA': 'PASHA PURI OCTAVIANI', 'SIKAP': 'A', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10032, 'NAMA': 'RAHMA ZETY KURNIASIH', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10033, 'NAMA': 'RENDY ARIBRIANTO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10034, 'NAMA': 'RISA RESTIANA FEBRIANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10035, 'NAMA': 'RIZQYA NOVELY AULYA HERMAN', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'B', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10036, 'NAMA': "Soraya Ni'matur Rohmah", 'SIKAP': 'B', 'peng': 'A', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10037, 'NAMA': 'WULAN SUCI RAHMADHANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10038, 'NAMA': 'YONA AMELIA PUTRI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10039, 'NAMA': 'Zuraida Fatma Nurazizah', 'SIKAP': 'A', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10040, 'NAMA': 'AGUNG RUSDI HARYA PUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10041, 'NAMA': 'Ahmad Reza Saputra', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10042, 'NAMA': 'ANGGUN FIQTROH RAHMADINA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10043, 'NAMA': 'Aninda Hera Ukiyesa', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10044, 'NAMA': 'Arezhyca Rizky Anggraini', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10045, 'NAMA': 'AYU DWI NINGTYAS', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10046, 'NAMA': 'BIMA ARIEL PRASTIYO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10047, 'NAMA': 'CHEYSA AVRIL', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10048, 'NAMA': 'DAVIS MIRZA FANANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10049, 'NAMA': 'Diandra Egista Putra Agil', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10050, 'NAMA': 'ESTY DESYANESTI NURAINI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10051, 'NAMA': 'Fadya Elok Prameswari', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10052, 'NAMA': 'Fanyca Ilma Feby Setya Ayuni', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10053, 'NAMA': 'FARIS SOFYAN SYAHPUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10054, 'NAMA': 'FEBBIO HANIF TAUFIQURROHMAN', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10055, 'NAMA': 'GITA MAYA WAHYU PUSPITA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10056, 'NAMA': 'MARENDRA TIO WICAKSONO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10057, 'NAMA': 'Meylisa Dwi Puspitasari', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10058, 'NAMA': 'MOH. PUTRA FALLA YANUARSYAH', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10059, 'NAMA': 'Muchamad Eko Bayu Prastiyo', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10060, 'NAMA': 'Muhamad Putra Pratama', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10062, 'NAMA': "NI'MATUNNIHA ROBBANIYAH", 'SIKAP': 'B', 'peng': 'B', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10061, 'NAMA': 'Nigita Mila Agustin', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10063, 'NAMA': 'NINDI AMILIA SAPUTRI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10064, 'NAMA': 'NOVILIA DWI ARTANTI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10065, 'NAMA': 'OKY RAMADHAN ANUGRAH PERMANA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10066, 'NAMA': 'PAUL FAUZI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10067, 'NAMA': 'PEVI NOVITASARI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10068, 'NAMA': 'Rino Pramuditya', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10069, 'NAMA': 'SELA MEICHA BELLA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10070, 'NAMA': 'Tatra Tri Wahyudi', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10071, 'NAMA': "You Fan' S", 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10072, 'NAMA': 'Afdy Carnaen Affandy', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10073, 'NAMA': 'AHMAD FAUZI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10074, 'NAMA': 'ALFIN KURNIA ADINTA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10075, 'NAMA': 'AVIVAH ANGGUN SUKMA ARUM MAIYA VRIYANTI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10076, 'NAMA': 'Dela Puspita', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10077, 'NAMA': 'DEVI DIA PERMATASARI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10078, 'NAMA': 'DHAFA AKBAR ANUGRAH PRADANA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10079, 'NAMA': 'ELSYA DWI ARDIANA PUTRI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10080, 'NAMA': 'Erine Wiritamaya ', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10081, 'NAMA': 'FADHIELA NUR ROHMAH', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10082, 'NAMA': 'Farisqi Putra Pratama', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10083, 'NAMA': 'FAROLD MISCHARIAN TAMEKA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10084, 'NAMA': 'LATIFA INDAH PERTIWI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10085, 'NAMA': 'Mahika Fadli Dwinanda', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10086, 'NAMA': 'MAULIA DIVA ANASTASYA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10087, 'NAMA': 'MEYTA DWI LESTARI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10088, 'NAMA': 'MOCHAMAT REZA ZAINUL WAFA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10089, 'NAMA': 'Mohamad Diky Surya Saputra', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10090, 'NAMA': 'NAILA ZHAFIRA RAHMADINA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10091, 'NAMA': 'Nizar Aditya Refandy', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10092, 'NAMA': 'OSHARILLA WILANA PUTRI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10093, 'NAMA': 'PANJI EKA SAPUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10094, 'NAMA': 'REGGYTA MAHARANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10095, 'NAMA': 'REIHAN PUTRA PRATAMA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10096, 'NAMA': 'REZA RAMADANI PUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10097, 'NAMA': 'Rizky Abdhel Rochman', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10098, 'NAMA': 'Salsabella Ramadhany', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10099, 'NAMA': 'Varel Malin Setiawan', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10100, 'NAMA': 'Yeyen Nurmega Gadis Sonia', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10101, 'NAMA': 'Yurike Ester Zecilia', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10102, 'NAMA': 'Zahra Sahira Shofa Mustafa', 'SIKAP': 'A', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10103, 'NAMA': 'ZIDAN ILHAM BINTANG', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10104, 'NAMA': 'ADRI LAKSONO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10105, 'NAMA': "ALISYA NURLAILI CHOIROTUN NISA'", 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10106, 'NAMA': 'ALVIA NOVITASARI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10107, 'NAMA': 'AMELIA DESI PRATIWI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:23:02] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:28:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:28:22] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:28:23] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:28:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:28:25] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:28:25] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:28:26] "GET /history HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:28:27] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:28:27] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\xampp\\htdocs\\sistem_skripsi_new\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:13] "GET /history HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:13] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:23] "GET /history?start_date=2024-06-24&end_date=2024-06-24 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:24] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:34] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:37] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:37] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:38] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:54] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:54] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:55] "[33mGET /js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:39:55] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:42:36] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:42:36] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:42:36] "[33mGET /js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:42:36] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:42:39] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:42:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:42:39] "[33mGET /js/scripts.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:42:39] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:42:41] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:42:41] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 21:42:41] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:Model loaded successfully
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:Model loaded successfully
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 164-277-994
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:21] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:21] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:21] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:29] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:29] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:29] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:app:    NISN                         NAMA SIKAP peng ket PTS PAS
+0  10009          Agung Duwi Setiawan     C    C   C   C   C
+1  10010        Ahmad Brilliant Fauzy     B    C   C   C   C
+2  10011            ALEA ATHA NUGRAHA     B    B   B   B   B
+3  10012  AVELINE FLORENTHE CARISSIMA     B    B   C   C   C
+4  10013                  BALLIYU AJI     B    C   C   C   C
+INFO:app:Inserting row: {'NISN': 10009, 'NAMA': 'Agung Duwi Setiawan', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10010, 'NAMA': 'Ahmad Brilliant Fauzy', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10011, 'NAMA': 'ALEA ATHA NUGRAHA', 'SIKAP': 'B', 'peng': 'B', 'ket': 'B', 'PTS': 'B', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10012, 'NAMA': 'AVELINE FLORENTHE CARISSIMA', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10013, 'NAMA': 'BALLIYU AJI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10014, 'NAMA': 'CANDRA GEWA SAPUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10015, 'NAMA': 'DHESTA DWI NOVITA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10016, 'NAMA': 'DHINAR SEKAR AYU RAHMADANI', 'SIKAP': 'A', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10017, 'NAMA': 'DICKY FAJAR MAULANA', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10018, 'NAMA': 'DINI RAMADANTI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10019, 'NAMA': 'DYAH ASRI NGAYOMI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10020, 'NAMA': 'FAIZA SALSABILLA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10021, 'NAMA': 'GAVRILA AGATHA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10022, 'NAMA': 'GERRY DIAN ADENATA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10023, 'NAMA': 'MOH SHIHA AL QARAFI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10024, 'NAMA': 'Mohammad Rosid Abdul Aziz', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10025, 'NAMA': 'MUHAMMAD ARSYA HADI SAPUTRA', 'SIKAP': 'C', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10026, 'NAMA': 'MUHAMMAD FACHRU RIZA', 'SIKAP': 'C', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10027, 'NAMA': 'MUHAMMAD TRIADI NUGROHO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10028, 'NAMA': 'NABILA FEBRIYANTI TAZKIYYA', 'SIKAP': 'A', 'peng': 'B', 'ket': 'B', 'PTS': 'B', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10029, 'NAMA': 'Nabila Pidia Meildasari', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10030, 'NAMA': 'NUR AZIZ IQBALUDIIN', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10031, 'NAMA': 'PASHA PURI OCTAVIANI', 'SIKAP': 'A', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10032, 'NAMA': 'RAHMA ZETY KURNIASIH', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10033, 'NAMA': 'RENDY ARIBRIANTO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10034, 'NAMA': 'RISA RESTIANA FEBRIANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10035, 'NAMA': 'RIZQYA NOVELY AULYA HERMAN', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'B', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10036, 'NAMA': "Soraya Ni'matur Rohmah", 'SIKAP': 'B', 'peng': 'A', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10037, 'NAMA': 'WULAN SUCI RAHMADHANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10038, 'NAMA': 'YONA AMELIA PUTRI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10039, 'NAMA': 'Zuraida Fatma Nurazizah', 'SIKAP': 'A', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10040, 'NAMA': 'AGUNG RUSDI HARYA PUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10041, 'NAMA': 'Ahmad Reza Saputra', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10042, 'NAMA': 'ANGGUN FIQTROH RAHMADINA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10043, 'NAMA': 'Aninda Hera Ukiyesa', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10044, 'NAMA': 'Arezhyca Rizky Anggraini', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10045, 'NAMA': 'AYU DWI NINGTYAS', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10046, 'NAMA': 'BIMA ARIEL PRASTIYO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10047, 'NAMA': 'CHEYSA AVRIL', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10048, 'NAMA': 'DAVIS MIRZA FANANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10049, 'NAMA': 'Diandra Egista Putra Agil', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10050, 'NAMA': 'ESTY DESYANESTI NURAINI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10051, 'NAMA': 'Fadya Elok Prameswari', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10052, 'NAMA': 'Fanyca Ilma Feby Setya Ayuni', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10053, 'NAMA': 'FARIS SOFYAN SYAHPUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10054, 'NAMA': 'FEBBIO HANIF TAUFIQURROHMAN', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10055, 'NAMA': 'GITA MAYA WAHYU PUSPITA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10056, 'NAMA': 'MARENDRA TIO WICAKSONO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10057, 'NAMA': 'Meylisa Dwi Puspitasari', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10058, 'NAMA': 'MOH. PUTRA FALLA YANUARSYAH', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10059, 'NAMA': 'Muchamad Eko Bayu Prastiyo', 'SIKAP': 'C', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10060, 'NAMA': 'Muhamad Putra Pratama', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10062, 'NAMA': "NI'MATUNNIHA ROBBANIYAH", 'SIKAP': 'B', 'peng': 'B', 'ket': 'B', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10061, 'NAMA': 'Nigita Mila Agustin', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10063, 'NAMA': 'NINDI AMILIA SAPUTRI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'B', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10064, 'NAMA': 'NOVILIA DWI ARTANTI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10065, 'NAMA': 'OKY RAMADHAN ANUGRAH PERMANA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10066, 'NAMA': 'PAUL FAUZI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10067, 'NAMA': 'PEVI NOVITASARI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10068, 'NAMA': 'Rino Pramuditya', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10069, 'NAMA': 'SELA MEICHA BELLA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10070, 'NAMA': 'Tatra Tri Wahyudi', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10071, 'NAMA': "You Fan' S", 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10072, 'NAMA': 'Afdy Carnaen Affandy', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10073, 'NAMA': 'AHMAD FAUZI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10074, 'NAMA': 'ALFIN KURNIA ADINTA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10075, 'NAMA': 'AVIVAH ANGGUN SUKMA ARUM MAIYA VRIYANTI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10076, 'NAMA': 'Dela Puspita', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10077, 'NAMA': 'DEVI DIA PERMATASARI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10078, 'NAMA': 'DHAFA AKBAR ANUGRAH PRADANA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10079, 'NAMA': 'ELSYA DWI ARDIANA PUTRI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10080, 'NAMA': 'Erine Wiritamaya ', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10081, 'NAMA': 'FADHIELA NUR ROHMAH', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10082, 'NAMA': 'Farisqi Putra Pratama', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10083, 'NAMA': 'FAROLD MISCHARIAN TAMEKA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10084, 'NAMA': 'LATIFA INDAH PERTIWI', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10085, 'NAMA': 'Mahika Fadli Dwinanda', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10086, 'NAMA': 'MAULIA DIVA ANASTASYA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10087, 'NAMA': 'MEYTA DWI LESTARI', 'SIKAP': 'B', 'peng': 'B', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10088, 'NAMA': 'MOCHAMAT REZA ZAINUL WAFA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10089, 'NAMA': 'Mohamad Diky Surya Saputra', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10090, 'NAMA': 'NAILA ZHAFIRA RAHMADINA', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'B', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10091, 'NAMA': 'Nizar Aditya Refandy', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10092, 'NAMA': 'OSHARILLA WILANA PUTRI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10093, 'NAMA': 'PANJI EKA SAPUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10094, 'NAMA': 'REGGYTA MAHARANI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10095, 'NAMA': 'REIHAN PUTRA PRATAMA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10096, 'NAMA': 'REZA RAMADANI PUTRA', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10097, 'NAMA': 'Rizky Abdhel Rochman', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10098, 'NAMA': 'Salsabella Ramadhany', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10099, 'NAMA': 'Varel Malin Setiawan', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10100, 'NAMA': 'Yeyen Nurmega Gadis Sonia', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10101, 'NAMA': 'Yurike Ester Zecilia', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10102, 'NAMA': 'Zahra Sahira Shofa Mustafa', 'SIKAP': 'A', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10103, 'NAMA': 'ZIDAN ILHAM BINTANG', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10104, 'NAMA': 'ADRI LAKSONO', 'SIKAP': 'C', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Kurang Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10105, 'NAMA': "ALISYA NURLAILI CHOIROTUN NISA'", 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10106, 'NAMA': 'ALVIA NOVITASARI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Inserting row: {'NISN': 10107, 'NAMA': 'AMELIA DESI PRATIWI', 'SIKAP': 'B', 'peng': 'C', 'ket': 'C', 'PTS': 'C', 'PAS': 'C', 'prediction': 'Memuaskan'}
+INFO:app:Prediction successful
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:37] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:40] "GET /download HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:47] "GET /history HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:47] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:47] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:53] "GET /history?start_date=&end_date=2024-06-25 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:53] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:54] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:58] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:58] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:58] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jun/2024 22:00:59] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
